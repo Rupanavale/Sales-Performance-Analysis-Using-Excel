@@ -35,6 +35,10 @@ The dataset includes various attributes like advertising channels, enrolled cour
 ## Technologies Used
 Microsoft Excel
 
+![Dashboard Image1](https://github.com/Rupanavale/Sales-Performance-Analysis-Using-Excel/assets/109949193/f3e5014d-24cf-4910-a9ca-e7fdc6fab39c)
+![Dashboard Image2](https://github.com/Rupanavale/Sales-Performance-Analysis-Using-Excel/assets/109949193/df849ec9-87ce-4e2a-a2fd-f81ee7fd1a32)
+
+
 ## Insights
 1. The total earnings are 15,99,00,00,00 egyptian pounds.
 2. Top 5 consultant by sales revenue are 'Mohmed', 'Rony', 'Hany', 'Dany', 'Kisho' respectively.
