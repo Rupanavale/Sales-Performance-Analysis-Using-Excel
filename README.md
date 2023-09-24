@@ -11,6 +11,9 @@ This repository contains Excel files and resources for data visualization using 
 - [Insights](#insights)
 - [License](#license)
 
+![Dashboard Image1](https://github.com/Rupanavale/Sales-Performance-Analysis-Using-Excel/assets/109949193/f3e5014d-24cf-4910-a9ca-e7fdc6fab39c)
+![Dashboard Image2](https://github.com/Rupanavale/Sales-Performance-Analysis-Using-Excel/assets/109949193/df849ec9-87ce-4e2a-a2fd-f81ee7fd1a32)
+
 ## Project Description
 Other Level's company has an online store and sells digital products. They have an impactful online presence through comapny website,facebook page,instagram, television ad, whatsapp, google ad,etc. In this projet I am going to analyze it's sales performanace based on advertising channel, sales team,consultant,training models,etc using microsoft excel.
 
@@ -34,9 +37,6 @@ The dataset includes various attributes like advertising channels, enrolled cour
 
 ## Technologies Used
 Microsoft Excel
-
-![Dashboard Image1](https://github.com/Rupanavale/Sales-Performance-Analysis-Using-Excel/assets/109949193/f3e5014d-24cf-4910-a9ca-e7fdc6fab39c)
-![Dashboard Image2](https://github.com/Rupanavale/Sales-Performance-Analysis-Using-Excel/assets/109949193/df849ec9-87ce-4e2a-a2fd-f81ee7fd1a32)
 
 
 ## Insights
